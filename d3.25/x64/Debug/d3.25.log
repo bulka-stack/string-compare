@@ -1,0 +1,4 @@
+﻿  d3.25.cpp
+C:\Users\djaju\OneDrive\Рабочий стол\coding\d3.25\d3.25\d3.25.cpp(8,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\djaju\OneDrive\Рабочий стол\coding\d3.25\d3.25\d3.25.cpp(14,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  d3.25.vcxproj -> C:\Users\djaju\OneDrive\Рабочий стол\coding\d3.25\x64\Debug\d3.25.exe
